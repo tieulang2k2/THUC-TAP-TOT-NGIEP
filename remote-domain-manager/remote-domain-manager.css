@@ -1,0 +1,28 @@
+/* remote-domain-manager.css */
+.button-danger {
+    background-color: #dc3232;
+    border-color: #dc3232;
+    color: #fff;
+}
+
+.pagination-links a.page-numbers {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 2px;
+    border: 1px solid #ddd;
+    background-color: #f7f7f7;
+    color: #0073aa;
+    text-decoration: none;
+    border-radius: 2px;
+}
+
+.pagination-links a.page-numbers.current {
+    background-color: #0073aa;
+    color: #fff;
+}
+
+.pagination-links .dots {
+    display: inline-block;
+    padding: 5px 10px;
+    color: #999;
+}
